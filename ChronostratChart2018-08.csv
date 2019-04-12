@@ -1,0 +1,118 @@
+,Eonothem / Eon,Erathem / Era ,System / Period ,Series / Epoch ,Stage / Age ,GSSP ,age (Ma) ,Approx,Uncertainty
+0,Phanerozoic ,Cenozoic,Quaternary ,Holocene ,Meghalayan ,T,0.0042,,
+1,Phanerozoic ,Cenozoic,Quaternary ,Holocene ,Northgrippian ,T,0.0082,,
+2,Phanerozoic ,Cenozoic,Quaternary ,Holocene ,Greenlandian ,T,0.0117,,
+3,Phanerozoic ,Cenozoic,Quaternary ,Pleistocene ,Upper ,,0.126,,
+4,Phanerozoic ,Cenozoic,Quaternary ,Pleistocene ,Middle ,,0.781,,
+5,Phanerozoic ,Cenozoic,Quaternary ,Pleistocene ,Calabrian ,T,1.8,,
+6,Phanerozoic ,Cenozoic,Quaternary ,Pleistocene ,Gelasian ,T,2.58,,
+7,Phanerozoic ,Cenozoic,Neogene ,Pliocene ,Piacenzian ,T,3.6,,
+8,Phanerozoic ,Cenozoic,Neogene ,Pliocene ,Zanclean ,T,5.333,,
+9,Phanerozoic ,Cenozoic,Neogene ,Miocene ,Messinian ,T,7.246,,
+10,Phanerozoic ,Cenozoic,Neogene ,Miocene ,Tortonian ,T,11.63,,
+11,Phanerozoic ,Cenozoic,Neogene ,Miocene ,Serravallian ,T,13.82,,
+12,Phanerozoic ,Cenozoic,Neogene ,Miocene ,Langhian ,,15.97,,
+13,Phanerozoic ,Cenozoic,Neogene ,Miocene ,Burdigalian ,,20.44,,
+14,Phanerozoic ,Cenozoic,Neogene ,Miocene ,Aquitanian ,T,23.03,,
+15,Phanerozoic ,Cenozoic,Paleogene ,Oligocene ,Chattian ,T,27.82,,
+16,Phanerozoic ,Cenozoic,Paleogene ,Oligocene ,Rupelian ,T,33.9,,
+17,Phanerozoic ,Cenozoic,Paleogene ,Eocene ,Priabonian ,,37.8,,
+18,Phanerozoic ,Cenozoic,Paleogene ,Eocene ,Bartonian ,,41.2,,
+19,Phanerozoic ,Cenozoic,Paleogene ,Eocene ,Lutetian ,T,47.8,,
+20,Phanerozoic ,Cenozoic,Paleogene ,Eocene ,Ypresian ,T,56.0,,
+21,Phanerozoic ,Cenozoic,Paleogene ,Paleocene ,Thanetian ,T,59.2,,
+22,Phanerozoic ,Cenozoic,Paleogene ,Paleocene ,Selandian ,T,61.6,,
+23,Phanerozoic ,Cenozoic,Paleogene ,Paleocene ,Danian ,T,66.0,,
+24,Phanerozoic ,Mesozoic ,Cretaceous ,Upper,Maastrichtia ,T,72.1,,0.2
+25,Phanerozoic ,Mesozoic ,Cretaceous ,Upper,Campanian ,,83.6,,0.2
+26,Phanerozoic ,Mesozoic ,Cretaceous ,Upper,Santonian ,T,86.3,,0.5
+27,Phanerozoic ,Mesozoic ,Cretaceous ,Upper,Coniacian ,,89.8,,0.3
+28,Phanerozoic ,Mesozoic ,Cretaceous ,Upper,Turonian ,T,93.9,,
+29,Phanerozoic ,Mesozoic ,Cretaceous ,Upper,Cenomanian ,T,100.5,,
+30,Phanerozoic ,Mesozoic ,Cretaceous ,Lower,Albian ,T,113.0,a,
+31,Phanerozoic ,Mesozoic ,Cretaceous ,Lower,Aptian ,,125.0,a,
+32,Phanerozoic ,Mesozoic ,Cretaceous ,Lower,Barremian ,,129.4,a,
+33,Phanerozoic ,Mesozoic ,Cretaceous ,Lower,Hauterivian ,,132.9,a,
+34,Phanerozoic ,Mesozoic ,Cretaceous ,Lower,Valanginian ,,139.8,a,
+35,Phanerozoic ,Mesozoic ,Cretaceous ,Lower,Berriasian ,,145.0,a,
+36,Phanerozoic ,Mesozoic ,Jurassic ,Upper ,Tithonian ,,152.1,,0.9
+37,Phanerozoic ,Mesozoic ,Jurassic ,Upper ,Kimmeridgian ,,157.3,,1.0
+38,Phanerozoic ,Mesozoic ,Jurassic ,Upper ,Oxfordian ,,163.5,,1.0
+39,Phanerozoic ,Mesozoic ,Jurassic ,Middle ,Callovian ,,166.1,,1.2
+40,Phanerozoic ,Mesozoic ,Jurassic ,Middle ,Bathonian ,T,168.3,,1.3
+41,Phanerozoic ,Mesozoic ,Jurassic ,Middle ,Bajocian ,T,170.3,,1.4
+42,Phanerozoic ,Mesozoic ,Jurassic ,Middle ,Aalenian ,T,174.1,,1.0
+43,Phanerozoic ,Mesozoic ,Jurassic ,Lower,Toarcian ,T,182.7,,0.7
+44,Phanerozoic ,Mesozoic ,Jurassic ,Lower,Pliensbachian ,T,190.8,,1.0
+45,Phanerozoic ,Mesozoic ,Jurassic ,Lower,Sinemurian ,T,199.3,,0.3
+46,Phanerozoic ,Mesozoic ,Jurassic ,Lower,Hettangian ,T,201.3,,0.2
+47,Phanerozoic ,Mesozoic ,Triassic ,Upper ,Rhaetian ,,208.5,a,
+48,Phanerozoic ,Mesozoic ,Triassic ,Upper ,Norian ,,227.0,a,
+49,Phanerozoic ,Mesozoic ,Triassic ,Upper ,Carnian ,T,237.0,a,
+50,Phanerozoic ,Mesozoic ,Triassic ,Middle ,Ladinian ,T,242.0,a,
+51,Phanerozoic ,Mesozoic ,Triassic ,Middle ,Anisian ,,247.2,,
+52,Phanerozoic ,Mesozoic ,Triassic ,Lower ,Olenekian ,,251.2,,
+53,Phanerozoic ,Mesozoic ,Triassic ,Lower ,Induan ,T,251.902,,0.024
+54,Phanerozoic ,Paleozoic ,Permian ,Lopingian ,Changhsingian ,T,254.14,,0.07
+55,Phanerozoic ,Paleozoic ,Permian ,Lopingian ,Wuchiapingian ,T,259.1,,0.5
+56,Phanerozoic ,Paleozoic ,Permian ,Guadalupian ,Capitanian ,T,265.1,,0.4
+57,Phanerozoic ,Paleozoic ,Permian ,Guadalupian ,Wordian ,T,268.8,,0.5
+58,Phanerozoic ,Paleozoic ,Permian ,Guadalupian ,Roadian ,T,272.95,,0.11
+59,Phanerozoic ,Paleozoic ,Permian ,Cisuralian ,Kungurian ,,283.5,,0.6
+60,Phanerozoic ,Paleozoic ,Permian ,Cisuralian ,Artinskian ,,290.1,,0.26
+61,Phanerozoic ,Paleozoic ,Permian ,Cisuralian ,Sakmarian ,T,293.52,,0.17
+62,Phanerozoic ,Paleozoic ,Permian ,Cisuralian ,Asselian ,T,298.9,,0.15
+63,Phanerozoic ,Paleozoic ,Carboniferous ,Pennsylvanian  Upper,Gzhelian ,,303.7,,0.1
+64,Phanerozoic ,Paleozoic ,Carboniferous ,Pennsylvanian  Upper,Kasimovian ,,307.0,,0.1
+65,Phanerozoic ,Paleozoic ,Carboniferous ,Pennsylvanian  Middle,Moscovian ,,315.2,,0.2
+66,Phanerozoic ,Paleozoic ,Carboniferous ,Pennsylvanian  Lower,Bashkirian ,T,323.2,,0.4
+67,Phanerozoic ,Paleozoic ,Carboniferous ,Mississippian Upper,Serpukhovian ,,330.9,,0.2
+68,Phanerozoic ,Paleozoic ,Carboniferous ,Mississippian Middle,Visean ,T,346.7,,0.4
+69,Phanerozoic ,Paleozoic ,Carboniferous ,Mississippian Lower,Tournaisian,T,358.9,,0.4
+70,Phanerozoic ,Paleozoic ,Devonian ,Upper,Famennian ,T,372.2,,1.6
+71,Phanerozoic ,Paleozoic ,Devonian ,Upper,Frasnian ,T,382.7,,1.6
+72,Phanerozoic ,Paleozoic ,Devonian ,Middle ,Givetian ,T,387.7,,0.8
+73,Phanerozoic ,Paleozoic ,Devonian ,Middle ,Eifelian ,T,393.3,,1.2
+74,Phanerozoic ,Paleozoic ,Devonian ,Lower ,Eifelian ,T,407.6,,2.6
+75,Phanerozoic ,Paleozoic ,Devonian ,Lower ,Pragian ,T,410.8,,2.8
+76,Phanerozoic ,Paleozoic ,Devonian ,Lower ,Lochkovian ,T,419.2,,3.2
+77,Phanerozoic ,Paleozoic ,Silurian ,Pridol ,,T,423.0,,2.3
+78,Phanerozoic ,Paleozoic ,Silurian ,Ludlow ,Ludfordian ,T,425.6,,0.9
+79,Phanerozoic ,Paleozoic ,Silurian ,Ludlow ,Gorstian ,T,427.4,,0.5
+80,Phanerozoic ,Paleozoic ,Silurian ,Wenlock ,Homerian ,T,430.5,,0.7
+81,Phanerozoic ,Paleozoic ,Silurian ,Wenlock ,Sheinwoodian ,T,433.4,,0.8
+82,Phanerozoic ,Paleozoic ,Silurian ,Llandovery ,Telychian ,T,438.5,,1.1
+83,Phanerozoic ,Paleozoic ,Silurian ,Llandovery ,Aeronian ,T,440.8,,1.2
+84,Phanerozoic ,Paleozoic ,Silurian ,Llandovery ,Rhuddanian ,T,443.8,,1.5
+85,Phanerozoic ,Paleozoic ,Ordovician ,Upper,Hirnantian ,T,445.2,,1.4
+86,Phanerozoic ,Paleozoic ,Ordovician ,Upper,Katian ,T,453.0,,0.7
+87,Phanerozoic ,Paleozoic ,Ordovician ,Upper,Sandbian ,T,458.4,,0.9
+88,Phanerozoic ,Paleozoic ,Ordovician ,Middle ,Darriwilian ,T,467.3,,1.1
+89,Phanerozoic ,Paleozoic ,Ordovician ,Middle ,Dapingian ,T,470.0,,1.4
+90,Phanerozoic ,Paleozoic ,Ordovician ,Lower ,Floian ,T,477.7,,1.4
+91,Phanerozoic ,Paleozoic ,Ordovician ,Lower ,Tremadocian ,T,485.4,,1.9
+92,Phanerozoic ,Paleozoic ,Cambrian ,Furongian ,Stage 10 ,,489.5,a,
+93,Phanerozoic ,Paleozoic ,Cambrian ,Furongian ,Jiangshanian ,T,494.0,a,
+94,Phanerozoic ,Paleozoic ,Cambrian ,Furongian ,Paibian ,T,497.0,a,
+95,Phanerozoic ,Paleozoic ,Cambrian ,Miaolingian ,Guzhangian ,T,500.5,a,
+96,Phanerozoic ,Paleozoic ,Cambrian ,Miaolingian ,Drumian ,T,504.5,a,
+97,Phanerozoic ,Paleozoic ,Cambrian ,Miaolingian ,Wuliuan ,T,509.0,a,
+98,Phanerozoic ,Paleozoic ,Cambrian ,Series 2 ,Stage 4 ,,514.0,a,
+99,Phanerozoic ,Paleozoic ,Cambrian ,Series 2 ,Stage 3 ,,521.0,a,
+100,Phanerozoic ,Paleozoic ,Cambrian ,Terreneuvian ,Stage 2 ,,529.0,a,
+101,Phanerozoic ,Paleozoic ,Cambrian ,Terreneuvian ,Fortunian ,T,541.0,,1.0
+102,Precambrian ,Proterozoic ,Neoproterozoic ,Ediacaran ,,T,635.0,a,
+103,Precambrian ,Proterozoic ,Neoproterozoic ,Cryogenian ,,,720.0,a,
+104,Precambrian ,Proterozoic ,Neoproterozoic ,Tonian ,,,1000.0,,
+105,Precambrian ,Proterozoic ,Mesoproterozoic,Stenian ,,,1200.0,,
+106,Precambrian ,Proterozoic ,Mesoproterozoic,Ectasian ,,,1400.0,,
+107,Precambrian ,Proterozoic ,Mesoproterozoic,Calymmian ,,,1600.0,,
+108,Precambrian ,Proterozoic ,Paleoproterozoic,Statherian ,,,1800.0,,
+109,Precambrian ,Proterozoic ,Paleoproterozoic,Orosirian ,,,2050.0,,
+110,Precambrian ,Proterozoic ,Paleoproterozoic,Rhyacian ,,,2300.0,,
+111,Precambrian ,Proterozoic ,Paleoproterozoic,Siderian ,,,2500.0,,
+112,Precambrian ,Archean ,Neoarchean ,,,,2800.0,,
+113,Precambrian ,Archean ,Mesoarchean,,,,3200.0,,
+114,Precambrian ,Archean ,Paleoarchean ,,,,3600.0,,
+115,Precambrian ,Archean ,Eoarchean,,,,4000.0,,
+116,Precambrian ,Hadean,Hadean,Hadean,Hadean,,4600.0,,
