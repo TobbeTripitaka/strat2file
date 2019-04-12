@@ -5,4 +5,4 @@ Here are computer readable versions of the [The International Chronostratigraphi
 
 Please report any typos or suggest improvement, e.g. representation of the american  subperiods. 
 
-I used an hour or more top search the internet, but I couldnøt find what I was looking for.  
+I used an hour or more top search the internet, but I couldn't find what I was looking for. 
