@@ -6,7 +6,7 @@ Computer-readable versions of the [The International Chronostratigraphic Chart](
 
 All rights belong to [International Commission on Stratigraphy](http://www.stratigraphy.org)
 
-Please report any typos or suggest improvements, e.g. representation of the [American subperiods](https://en.wikipedia.org/wiki/Mississippian_(geology)). I might implement the colour scheme as well in future.
+Please report any typos or suggest improvements, e.g. another way to represent the [American subperiods](https://en.wikipedia.org/wiki/Mississippian_(geology)). I might implement the colour scheme as well in future.
 
 ![Stratigraphy, Svalbard](https://github.com/TobbeTripitaka/strat2file/blob/master/fig/strat_img.jpg?raw=true)
 _photo: Tobias Stål_
