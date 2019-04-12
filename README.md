@@ -8,7 +8,7 @@ All rights belong to [International Commission on Stratigraphy](http://www.strat
 
 I couldn't find this when I serached, so I made a version for you. 
 
-Please report any typos or suggest improvements, e.g. representation of the American subperiods. I might implement the colour scheme as well next in future.
+Please report any typos or suggest improvements, e.g. representation of the American subperiods. I might implement the colour scheme as well in future.
 
 ![Stratigraphy, Svalbard](https://github.com/TobbeTripitaka/strat2file/blob/master/fig/strat_img.jpg?raw=true)
 _photo: Tobias Stål_
