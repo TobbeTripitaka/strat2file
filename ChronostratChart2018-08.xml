@@ -1,1285 +1,1402 @@
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Quaternary </field>
-  <field name="Series / Epoch ">Holocene </field>
-  <field name="Stage / Age ">Meghalayan </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Quaternary </field>
+  <field name="Epoch">Holocene </field>
+  <field name="Age">Meghalayan </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">0.0042</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Quaternary </field>
-  <field name="Series / Epoch ">Holocene </field>
-  <field name="Stage / Age ">Northgrippian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Quaternary </field>
+  <field name="Epoch">Holocene </field>
+  <field name="Age">Northgrippian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">0.0082</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Quaternary </field>
-  <field name="Series / Epoch ">Holocene </field>
-  <field name="Stage / Age ">Greenlandian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Quaternary </field>
+  <field name="Epoch">Holocene </field>
+  <field name="Age">Greenlandian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">0.0117</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Quaternary </field>
-  <field name="Series / Epoch ">Pleistocene </field>
-  <field name="Stage / Age ">Upper </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Quaternary </field>
+  <field name="Epoch">Pleistocene </field>
+  <field name="Age">Upper </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">0.126</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Quaternary </field>
-  <field name="Series / Epoch ">Pleistocene </field>
-  <field name="Stage / Age ">Middle </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Quaternary </field>
+  <field name="Epoch">Pleistocene </field>
+  <field name="Age">Middle </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">0.781</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Quaternary </field>
-  <field name="Series / Epoch ">Pleistocene </field>
-  <field name="Stage / Age ">Calabrian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Quaternary </field>
+  <field name="Epoch">Pleistocene </field>
+  <field name="Age">Calabrian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">1.8</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Quaternary </field>
-  <field name="Series / Epoch ">Pleistocene </field>
-  <field name="Stage / Age ">Gelasian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Quaternary </field>
+  <field name="Epoch">Pleistocene </field>
+  <field name="Age">Gelasian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">2.58</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Neogene </field>
-  <field name="Series / Epoch ">Pliocene </field>
-  <field name="Stage / Age ">Piacenzian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Neogene </field>
+  <field name="Epoch">Pliocene </field>
+  <field name="Age">Piacenzian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">3.6</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Neogene </field>
-  <field name="Series / Epoch ">Pliocene </field>
-  <field name="Stage / Age ">Zanclean </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Neogene </field>
+  <field name="Epoch">Pliocene </field>
+  <field name="Age">Zanclean </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">5.333</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Neogene </field>
-  <field name="Series / Epoch ">Miocene </field>
-  <field name="Stage / Age ">Messinian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Neogene </field>
+  <field name="Epoch">Miocene </field>
+  <field name="Age">Messinian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">7.246</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Neogene </field>
-  <field name="Series / Epoch ">Miocene </field>
-  <field name="Stage / Age ">Tortonian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Neogene </field>
+  <field name="Epoch">Miocene </field>
+  <field name="Age">Tortonian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">11.63</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Neogene </field>
-  <field name="Series / Epoch ">Miocene </field>
-  <field name="Stage / Age ">Serravallian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Neogene </field>
+  <field name="Epoch">Miocene </field>
+  <field name="Age">Serravallian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">13.82</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Neogene </field>
-  <field name="Series / Epoch ">Miocene </field>
-  <field name="Stage / Age ">Langhian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Neogene </field>
+  <field name="Epoch">Miocene </field>
+  <field name="Age">Langhian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">15.97</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Neogene </field>
-  <field name="Series / Epoch ">Miocene </field>
-  <field name="Stage / Age ">Burdigalian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Neogene </field>
+  <field name="Epoch">Miocene </field>
+  <field name="Age">Burdigalian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">20.44</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Neogene </field>
-  <field name="Series / Epoch ">Miocene </field>
-  <field name="Stage / Age ">Aquitanian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Neogene </field>
+  <field name="Epoch">Miocene </field>
+  <field name="Age">Aquitanian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">23.03</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Paleogene </field>
-  <field name="Series / Epoch ">Oligocene </field>
-  <field name="Stage / Age ">Chattian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Paleogene </field>
+  <field name="Epoch">Oligocene </field>
+  <field name="Age">Chattian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">27.82</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Paleogene </field>
-  <field name="Series / Epoch ">Oligocene </field>
-  <field name="Stage / Age ">Rupelian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Paleogene </field>
+  <field name="Epoch">Oligocene </field>
+  <field name="Age">Rupelian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">33.9</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Paleogene </field>
-  <field name="Series / Epoch ">Eocene </field>
-  <field name="Stage / Age ">Priabonian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Paleogene </field>
+  <field name="Epoch">Eocene </field>
+  <field name="Age">Priabonian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">37.8</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Paleogene </field>
-  <field name="Series / Epoch ">Eocene </field>
-  <field name="Stage / Age ">Bartonian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Paleogene </field>
+  <field name="Epoch">Eocene </field>
+  <field name="Age">Bartonian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">41.2</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Paleogene </field>
-  <field name="Series / Epoch ">Eocene </field>
-  <field name="Stage / Age ">Lutetian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Paleogene </field>
+  <field name="Epoch">Eocene </field>
+  <field name="Age">Lutetian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">47.8</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Paleogene </field>
-  <field name="Series / Epoch ">Eocene </field>
-  <field name="Stage / Age ">Ypresian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Paleogene </field>
+  <field name="Epoch">Eocene </field>
+  <field name="Age">Ypresian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">56.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Paleogene </field>
-  <field name="Series / Epoch ">Paleocene </field>
-  <field name="Stage / Age ">Thanetian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Paleogene </field>
+  <field name="Epoch">Paleocene </field>
+  <field name="Age">Thanetian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">59.2</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Paleogene </field>
-  <field name="Series / Epoch ">Paleocene </field>
-  <field name="Stage / Age ">Selandian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Paleogene </field>
+  <field name="Epoch">Paleocene </field>
+  <field name="Age">Selandian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">61.6</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Cenozoic</field>
-  <field name="System / Period ">Paleogene </field>
-  <field name="Series / Epoch ">Paleocene </field>
-  <field name="Stage / Age ">Danian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Cenozoic</field>
+  <field name="Period">Paleogene </field>
+  <field name="Epoch">Paleocene </field>
+  <field name="Age">Danian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">66.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Cretaceous </field>
-  <field name="Series / Epoch ">Upper</field>
-  <field name="Stage / Age ">Maastrichtia </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Cretaceous </field>
+  <field name="Epoch">Upper</field>
+  <field name="Age">Maastrichtia </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">72.1</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.2</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Cretaceous </field>
-  <field name="Series / Epoch ">Upper</field>
-  <field name="Stage / Age ">Campanian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Cretaceous </field>
+  <field name="Epoch">Upper</field>
+  <field name="Age">Campanian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">83.6</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.2</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Cretaceous </field>
-  <field name="Series / Epoch ">Upper</field>
-  <field name="Stage / Age ">Santonian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Cretaceous </field>
+  <field name="Epoch">Upper</field>
+  <field name="Age">Santonian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">86.3</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.5</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Cretaceous </field>
-  <field name="Series / Epoch ">Upper</field>
-  <field name="Stage / Age ">Coniacian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Cretaceous </field>
+  <field name="Epoch">Upper</field>
+  <field name="Age">Coniacian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">89.8</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.3</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Cretaceous </field>
-  <field name="Series / Epoch ">Upper</field>
-  <field name="Stage / Age ">Turonian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Cretaceous </field>
+  <field name="Epoch">Upper</field>
+  <field name="Age">Turonian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">93.9</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Cretaceous </field>
-  <field name="Series / Epoch ">Upper</field>
-  <field name="Stage / Age ">Cenomanian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Cretaceous </field>
+  <field name="Epoch">Upper</field>
+  <field name="Age">Cenomanian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">100.5</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Cretaceous </field>
-  <field name="Series / Epoch ">Lower</field>
-  <field name="Stage / Age ">Albian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Cretaceous </field>
+  <field name="Epoch">Lower</field>
+  <field name="Age">Albian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">113.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Cretaceous </field>
-  <field name="Series / Epoch ">Lower</field>
-  <field name="Stage / Age ">Aptian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Cretaceous </field>
+  <field name="Epoch">Lower</field>
+  <field name="Age">Aptian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">125.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Cretaceous </field>
-  <field name="Series / Epoch ">Lower</field>
-  <field name="Stage / Age ">Barremian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Cretaceous </field>
+  <field name="Epoch">Lower</field>
+  <field name="Age">Barremian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">129.4</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Cretaceous </field>
-  <field name="Series / Epoch ">Lower</field>
-  <field name="Stage / Age ">Hauterivian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Cretaceous </field>
+  <field name="Epoch">Lower</field>
+  <field name="Age">Hauterivian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">132.9</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Cretaceous </field>
-  <field name="Series / Epoch ">Lower</field>
-  <field name="Stage / Age ">Valanginian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Cretaceous </field>
+  <field name="Epoch">Lower</field>
+  <field name="Age">Valanginian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">139.8</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Cretaceous </field>
-  <field name="Series / Epoch ">Lower</field>
-  <field name="Stage / Age ">Berriasian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Cretaceous </field>
+  <field name="Epoch">Lower</field>
+  <field name="Age">Berriasian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">145.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Jurassic </field>
-  <field name="Series / Epoch ">Upper </field>
-  <field name="Stage / Age ">Tithonian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Jurassic </field>
+  <field name="Epoch">Upper </field>
+  <field name="Age">Tithonian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">152.1</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.9</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Jurassic </field>
-  <field name="Series / Epoch ">Upper </field>
-  <field name="Stage / Age ">Kimmeridgian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Jurassic </field>
+  <field name="Epoch">Upper </field>
+  <field name="Age">Kimmeridgian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">157.3</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.0</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Jurassic </field>
-  <field name="Series / Epoch ">Upper </field>
-  <field name="Stage / Age ">Oxfordian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Jurassic </field>
+  <field name="Epoch">Upper </field>
+  <field name="Age">Oxfordian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">163.5</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.0</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Jurassic </field>
-  <field name="Series / Epoch ">Middle </field>
-  <field name="Stage / Age ">Callovian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Jurassic </field>
+  <field name="Epoch">Middle </field>
+  <field name="Age">Callovian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">166.1</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.2</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Jurassic </field>
-  <field name="Series / Epoch ">Middle </field>
-  <field name="Stage / Age ">Bathonian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Jurassic </field>
+  <field name="Epoch">Middle </field>
+  <field name="Age">Bathonian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">168.3</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.3</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Jurassic </field>
-  <field name="Series / Epoch ">Middle </field>
-  <field name="Stage / Age ">Bajocian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Jurassic </field>
+  <field name="Epoch">Middle </field>
+  <field name="Age">Bajocian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">170.3</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.4</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Jurassic </field>
-  <field name="Series / Epoch ">Middle </field>
-  <field name="Stage / Age ">Aalenian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Jurassic </field>
+  <field name="Epoch">Middle </field>
+  <field name="Age">Aalenian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">174.1</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.0</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Jurassic </field>
-  <field name="Series / Epoch ">Lower</field>
-  <field name="Stage / Age ">Toarcian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Jurassic </field>
+  <field name="Epoch">Lower</field>
+  <field name="Age">Toarcian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">182.7</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.7</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Jurassic </field>
-  <field name="Series / Epoch ">Lower</field>
-  <field name="Stage / Age ">Pliensbachian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Jurassic </field>
+  <field name="Epoch">Lower</field>
+  <field name="Age">Pliensbachian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">190.8</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.0</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Jurassic </field>
-  <field name="Series / Epoch ">Lower</field>
-  <field name="Stage / Age ">Sinemurian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Jurassic </field>
+  <field name="Epoch">Lower</field>
+  <field name="Age">Sinemurian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">199.3</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.3</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Jurassic </field>
-  <field name="Series / Epoch ">Lower</field>
-  <field name="Stage / Age ">Hettangian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Jurassic </field>
+  <field name="Epoch">Lower</field>
+  <field name="Age">Hettangian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">201.3</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.2</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Triassic </field>
-  <field name="Series / Epoch ">Upper </field>
-  <field name="Stage / Age ">Rhaetian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Triassic </field>
+  <field name="Epoch">Upper </field>
+  <field name="Age">Rhaetian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">208.5</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Triassic </field>
-  <field name="Series / Epoch ">Upper </field>
-  <field name="Stage / Age ">Norian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Triassic </field>
+  <field name="Epoch">Upper </field>
+  <field name="Age">Norian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">227.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Triassic </field>
-  <field name="Series / Epoch ">Upper </field>
-  <field name="Stage / Age ">Carnian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Triassic </field>
+  <field name="Epoch">Upper </field>
+  <field name="Age">Carnian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">237.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Triassic </field>
-  <field name="Series / Epoch ">Middle </field>
-  <field name="Stage / Age ">Ladinian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Triassic </field>
+  <field name="Epoch">Middle </field>
+  <field name="Age">Ladinian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">242.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Triassic </field>
-  <field name="Series / Epoch ">Middle </field>
-  <field name="Stage / Age ">Anisian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Triassic </field>
+  <field name="Epoch">Middle </field>
+  <field name="Age">Anisian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">247.2</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Triassic </field>
-  <field name="Series / Epoch ">Lower </field>
-  <field name="Stage / Age ">Olenekian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Triassic </field>
+  <field name="Epoch">Lower </field>
+  <field name="Age">Olenekian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">251.2</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Mesozoic </field>
-  <field name="System / Period ">Triassic </field>
-  <field name="Series / Epoch ">Lower </field>
-  <field name="Stage / Age ">Induan </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Mesozoic </field>
+  <field name="Period">Triassic </field>
+  <field name="Epoch">Lower </field>
+  <field name="Age">Induan </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">251.902</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.024</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Permian </field>
-  <field name="Series / Epoch ">Lopingian </field>
-  <field name="Stage / Age ">Changhsingian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Permian </field>
+  <field name="Epoch">Lopingian </field>
+  <field name="Age">Changhsingian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">254.14</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.07</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Permian </field>
-  <field name="Series / Epoch ">Lopingian </field>
-  <field name="Stage / Age ">Wuchiapingian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Permian </field>
+  <field name="Epoch">Lopingian </field>
+  <field name="Age">Wuchiapingian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">259.1</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.5</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Permian </field>
-  <field name="Series / Epoch ">Guadalupian </field>
-  <field name="Stage / Age ">Capitanian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Permian </field>
+  <field name="Epoch">Guadalupian </field>
+  <field name="Age">Capitanian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">265.1</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.4</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Permian </field>
-  <field name="Series / Epoch ">Guadalupian </field>
-  <field name="Stage / Age ">Wordian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Permian </field>
+  <field name="Epoch">Guadalupian </field>
+  <field name="Age">Wordian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">268.8</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.5</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Permian </field>
-  <field name="Series / Epoch ">Guadalupian </field>
-  <field name="Stage / Age ">Roadian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Permian </field>
+  <field name="Epoch">Guadalupian </field>
+  <field name="Age">Roadian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">272.95</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.11</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Permian </field>
-  <field name="Series / Epoch ">Cisuralian </field>
-  <field name="Stage / Age ">Kungurian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Permian </field>
+  <field name="Epoch">Cisuralian </field>
+  <field name="Age">Kungurian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">283.5</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.6</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Permian </field>
-  <field name="Series / Epoch ">Cisuralian </field>
-  <field name="Stage / Age ">Artinskian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Permian </field>
+  <field name="Epoch">Cisuralian </field>
+  <field name="Age">Artinskian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">290.1</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.26</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Permian </field>
-  <field name="Series / Epoch ">Cisuralian </field>
-  <field name="Stage / Age ">Sakmarian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Permian </field>
+  <field name="Epoch">Cisuralian </field>
+  <field name="Age">Sakmarian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">293.52</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.17</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Permian </field>
-  <field name="Series / Epoch ">Cisuralian </field>
-  <field name="Stage / Age ">Asselian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Permian </field>
+  <field name="Epoch">Cisuralian </field>
+  <field name="Age">Asselian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">298.9</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.15</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Carboniferous </field>
-  <field name="Series / Epoch ">Pennsylvanian  Upper</field>
-  <field name="Stage / Age ">Gzhelian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Carboniferous </field>
+  <field name="Epoch">Pennsylvanian  Upper</field>
+  <field name="Age">Gzhelian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">303.7</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.1</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Carboniferous </field>
-  <field name="Series / Epoch ">Pennsylvanian  Upper</field>
-  <field name="Stage / Age ">Kasimovian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Carboniferous </field>
+  <field name="Epoch">Pennsylvanian  Upper</field>
+  <field name="Age">Kasimovian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">307.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.1</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Carboniferous </field>
-  <field name="Series / Epoch ">Pennsylvanian  Middle</field>
-  <field name="Stage / Age ">Moscovian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Carboniferous </field>
+  <field name="Epoch">Pennsylvanian  Middle</field>
+  <field name="Age">Moscovian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">315.2</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.2</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Carboniferous </field>
-  <field name="Series / Epoch ">Pennsylvanian  Lower</field>
-  <field name="Stage / Age ">Bashkirian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Carboniferous </field>
+  <field name="Epoch">Pennsylvanian  Lower</field>
+  <field name="Age">Bashkirian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">323.2</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.4</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Carboniferous </field>
-  <field name="Series / Epoch ">Mississippian Upper</field>
-  <field name="Stage / Age ">Serpukhovian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Carboniferous </field>
+  <field name="Epoch">Mississippian Upper</field>
+  <field name="Age">Serpukhovian </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">330.9</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.2</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Carboniferous </field>
-  <field name="Series / Epoch ">Mississippian Middle</field>
-  <field name="Stage / Age ">Visean </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Carboniferous </field>
+  <field name="Epoch">Mississippian Middle</field>
+  <field name="Age">Visean </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">346.7</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.4</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Carboniferous </field>
-  <field name="Series / Epoch ">Mississippian Lower</field>
-  <field name="Stage / Age ">Tournaisian</field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Carboniferous </field>
+  <field name="Epoch">Mississippian Lower</field>
+  <field name="Age">Tournaisian</field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">358.9</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.4</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Devonian </field>
-  <field name="Series / Epoch ">Upper</field>
-  <field name="Stage / Age ">Famennian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Devonian </field>
+  <field name="Epoch">Upper</field>
+  <field name="Age">Famennian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">372.2</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.6</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Devonian </field>
-  <field name="Series / Epoch ">Upper</field>
-  <field name="Stage / Age ">Frasnian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Devonian </field>
+  <field name="Epoch">Upper</field>
+  <field name="Age">Frasnian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">382.7</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.6</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Devonian </field>
-  <field name="Series / Epoch ">Middle </field>
-  <field name="Stage / Age ">Givetian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Devonian </field>
+  <field name="Epoch">Middle </field>
+  <field name="Age">Givetian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">387.7</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.8</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Devonian </field>
-  <field name="Series / Epoch ">Middle </field>
-  <field name="Stage / Age ">Eifelian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Devonian </field>
+  <field name="Epoch">Middle </field>
+  <field name="Age">Eifelian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">393.3</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.2</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Devonian </field>
-  <field name="Series / Epoch ">Lower </field>
-  <field name="Stage / Age ">Eifelian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Devonian </field>
+  <field name="Epoch">Lower </field>
+  <field name="Age">Eifelian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">407.6</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">2.6</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Devonian </field>
-  <field name="Series / Epoch ">Lower </field>
-  <field name="Stage / Age ">Pragian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Devonian </field>
+  <field name="Epoch">Lower </field>
+  <field name="Age">Pragian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">410.8</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">2.8</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Devonian </field>
-  <field name="Series / Epoch ">Lower </field>
-  <field name="Stage / Age ">Lochkovian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Devonian </field>
+  <field name="Epoch">Lower </field>
+  <field name="Age">Lochkovian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">419.2</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">3.2</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Silurian </field>
-  <field name="Series / Epoch ">Pridol </field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Silurian </field>
+  <field name="Epoch">Pridol </field>
+  <field name="Age">nan</field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">423.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">2.3</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Silurian </field>
-  <field name="Series / Epoch ">Ludlow </field>
-  <field name="Stage / Age ">Ludfordian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Silurian </field>
+  <field name="Epoch">Ludlow </field>
+  <field name="Age">Ludfordian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">425.6</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.9</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Silurian </field>
-  <field name="Series / Epoch ">Ludlow </field>
-  <field name="Stage / Age ">Gorstian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Silurian </field>
+  <field name="Epoch">Ludlow </field>
+  <field name="Age">Gorstian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">427.4</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.5</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Silurian </field>
-  <field name="Series / Epoch ">Wenlock </field>
-  <field name="Stage / Age ">Homerian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Silurian </field>
+  <field name="Epoch">Wenlock </field>
+  <field name="Age">Homerian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">430.5</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.7</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Silurian </field>
-  <field name="Series / Epoch ">Wenlock </field>
-  <field name="Stage / Age ">Sheinwoodian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Silurian </field>
+  <field name="Epoch">Wenlock </field>
+  <field name="Age">Sheinwoodian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">433.4</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.8</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Silurian </field>
-  <field name="Series / Epoch ">Llandovery </field>
-  <field name="Stage / Age ">Telychian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Silurian </field>
+  <field name="Epoch">Llandovery </field>
+  <field name="Age">Telychian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">438.5</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.1</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Silurian </field>
-  <field name="Series / Epoch ">Llandovery </field>
-  <field name="Stage / Age ">Aeronian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Silurian </field>
+  <field name="Epoch">Llandovery </field>
+  <field name="Age">Aeronian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">440.8</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.2</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Silurian </field>
-  <field name="Series / Epoch ">Llandovery </field>
-  <field name="Stage / Age ">Rhuddanian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Silurian </field>
+  <field name="Epoch">Llandovery </field>
+  <field name="Age">Rhuddanian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">443.8</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.5</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Ordovician </field>
-  <field name="Series / Epoch ">Upper</field>
-  <field name="Stage / Age ">Hirnantian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Ordovician </field>
+  <field name="Epoch">Upper</field>
+  <field name="Age">Hirnantian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">445.2</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.4</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Ordovician </field>
-  <field name="Series / Epoch ">Upper</field>
-  <field name="Stage / Age ">Katian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Ordovician </field>
+  <field name="Epoch">Upper</field>
+  <field name="Age">Katian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">453.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.7</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Ordovician </field>
-  <field name="Series / Epoch ">Upper</field>
-  <field name="Stage / Age ">Sandbian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Ordovician </field>
+  <field name="Epoch">Upper</field>
+  <field name="Age">Sandbian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">458.4</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">0.9</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Ordovician </field>
-  <field name="Series / Epoch ">Middle </field>
-  <field name="Stage / Age ">Darriwilian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Ordovician </field>
+  <field name="Epoch">Middle </field>
+  <field name="Age">Darriwilian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">467.3</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.1</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Ordovician </field>
-  <field name="Series / Epoch ">Middle </field>
-  <field name="Stage / Age ">Dapingian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Ordovician </field>
+  <field name="Epoch">Middle </field>
+  <field name="Age">Dapingian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">470.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.4</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Ordovician </field>
-  <field name="Series / Epoch ">Lower </field>
-  <field name="Stage / Age ">Floian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Ordovician </field>
+  <field name="Epoch">Lower </field>
+  <field name="Age">Floian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">477.7</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.4</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Ordovician </field>
-  <field name="Series / Epoch ">Lower </field>
-  <field name="Stage / Age ">Tremadocian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Ordovician </field>
+  <field name="Epoch">Lower </field>
+  <field name="Age">Tremadocian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">485.4</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.9</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Cambrian </field>
-  <field name="Series / Epoch ">Furongian </field>
-  <field name="Stage / Age ">Stage 10 </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Cambrian </field>
+  <field name="Epoch">Furongian </field>
+  <field name="Age">Stage 10 </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">489.5</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Cambrian </field>
-  <field name="Series / Epoch ">Furongian </field>
-  <field name="Stage / Age ">Jiangshanian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Cambrian </field>
+  <field name="Epoch">Furongian </field>
+  <field name="Age">Jiangshanian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">494.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Cambrian </field>
-  <field name="Series / Epoch ">Furongian </field>
-  <field name="Stage / Age ">Paibian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Cambrian </field>
+  <field name="Epoch">Furongian </field>
+  <field name="Age">Paibian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">497.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Cambrian </field>
-  <field name="Series / Epoch ">Miaolingian </field>
-  <field name="Stage / Age ">Guzhangian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Cambrian </field>
+  <field name="Epoch">Miaolingian </field>
+  <field name="Age">Guzhangian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">500.5</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Cambrian </field>
-  <field name="Series / Epoch ">Miaolingian </field>
-  <field name="Stage / Age ">Drumian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Cambrian </field>
+  <field name="Epoch">Miaolingian </field>
+  <field name="Age">Drumian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">504.5</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Cambrian </field>
-  <field name="Series / Epoch ">Miaolingian </field>
-  <field name="Stage / Age ">Wuliuan </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Cambrian </field>
+  <field name="Epoch">Miaolingian </field>
+  <field name="Age">Wuliuan </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">509.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Cambrian </field>
-  <field name="Series / Epoch ">Series 2 </field>
-  <field name="Stage / Age ">Stage 4 </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Cambrian </field>
+  <field name="Epoch">Series 2 </field>
+  <field name="Age">Stage 4 </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">514.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Cambrian </field>
-  <field name="Series / Epoch ">Series 2 </field>
-  <field name="Stage / Age ">Stage 3 </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Cambrian </field>
+  <field name="Epoch">Series 2 </field>
+  <field name="Age">Stage 3 </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">521.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Cambrian </field>
-  <field name="Series / Epoch ">Terreneuvian </field>
-  <field name="Stage / Age ">Stage 2 </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Cambrian </field>
+  <field name="Epoch">Terreneuvian </field>
+  <field name="Age">Stage 2 </field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">529.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Phanerozoic </field>
-  <field name="Erathem / Era ">Paleozoic </field>
-  <field name="System / Period ">Cambrian </field>
-  <field name="Series / Epoch ">Terreneuvian </field>
-  <field name="Stage / Age ">Fortunian </field>
+  <field name="Supereon">nan</field>
+  <field name="Eon">Phanerozoic </field>
+  <field name="Era">Paleozoic </field>
+  <field name="Period">Cambrian </field>
+  <field name="Epoch">Terreneuvian </field>
+  <field name="Age">Fortunian </field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">541.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">1.0</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Proterozoic </field>
-  <field name="System / Period ">Neoproterozoic </field>
-  <field name="Series / Epoch ">Ediacaran </field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Proterozoic </field>
+  <field name="Era">Neoproterozoic </field>
+  <field name="Period">Ediacaran </field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">T</field>
   <field name="age (Ma) ">635.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Proterozoic </field>
-  <field name="System / Period ">Neoproterozoic </field>
-  <field name="Series / Epoch ">Cryogenian </field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Proterozoic </field>
+  <field name="Era">Neoproterozoic </field>
+  <field name="Period">Cryogenian </field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">720.0</field>
   <field name="Approx">a</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Proterozoic </field>
-  <field name="System / Period ">Neoproterozoic </field>
-  <field name="Series / Epoch ">Tonian </field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Proterozoic </field>
+  <field name="Era">Neoproterozoic </field>
+  <field name="Period">Tonian </field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">1000.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Proterozoic </field>
-  <field name="System / Period ">Mesoproterozoic</field>
-  <field name="Series / Epoch ">Stenian </field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Proterozoic </field>
+  <field name="Era">Mesoproterozoic</field>
+  <field name="Period">Stenian </field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">1200.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Proterozoic </field>
-  <field name="System / Period ">Mesoproterozoic</field>
-  <field name="Series / Epoch ">Ectasian </field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Proterozoic </field>
+  <field name="Era">Mesoproterozoic</field>
+  <field name="Period">Ectasian </field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">1400.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Proterozoic </field>
-  <field name="System / Period ">Mesoproterozoic</field>
-  <field name="Series / Epoch ">Calymmian </field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Proterozoic </field>
+  <field name="Era">Mesoproterozoic</field>
+  <field name="Period">Calymmian </field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">1600.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Proterozoic </field>
-  <field name="System / Period ">Paleoproterozoic</field>
-  <field name="Series / Epoch ">Statherian </field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Proterozoic </field>
+  <field name="Era">Paleoproterozoic</field>
+  <field name="Period">Statherian </field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">1800.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Proterozoic </field>
-  <field name="System / Period ">Paleoproterozoic</field>
-  <field name="Series / Epoch ">Orosirian </field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Proterozoic </field>
+  <field name="Era">Paleoproterozoic</field>
+  <field name="Period">Orosirian </field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">2050.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Proterozoic </field>
-  <field name="System / Period ">Paleoproterozoic</field>
-  <field name="Series / Epoch ">Rhyacian </field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Proterozoic </field>
+  <field name="Era">Paleoproterozoic</field>
+  <field name="Period">Rhyacian </field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">2300.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Proterozoic </field>
-  <field name="System / Period ">Paleoproterozoic</field>
-  <field name="Series / Epoch ">Siderian </field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Proterozoic </field>
+  <field name="Era">Paleoproterozoic</field>
+  <field name="Period">Siderian </field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">2500.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Archean </field>
-  <field name="System / Period ">Neoarchean </field>
-  <field name="Series / Epoch ">nan</field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Archean </field>
+  <field name="Era">Neoarchean </field>
+  <field name="Period">nan</field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">2800.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Archean </field>
-  <field name="System / Period ">Mesoarchean</field>
-  <field name="Series / Epoch ">nan</field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Archean </field>
+  <field name="Era">Mesoarchean</field>
+  <field name="Period">nan</field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">3200.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Archean </field>
-  <field name="System / Period ">Paleoarchean </field>
-  <field name="Series / Epoch ">nan</field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Archean </field>
+  <field name="Era">Paleoarchean </field>
+  <field name="Period">nan</field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">3600.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Archean </field>
-  <field name="System / Period ">Eoarchean</field>
-  <field name="Series / Epoch ">nan</field>
-  <field name="Stage / Age ">nan</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Archean </field>
+  <field name="Era">Eoarchean</field>
+  <field name="Period">nan</field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">4000.0</field>
   <field name="Approx">nan</field>
   <field name="Uncertainty">nan</field>
 </item>
 <item>
-  <field name="Eonothem / Eon">Precambrian </field>
-  <field name="Erathem / Era ">Hadean</field>
-  <field name="System / Period ">Hadean</field>
-  <field name="Series / Epoch ">Hadean</field>
-  <field name="Stage / Age ">Hadean</field>
+  <field name="Supereon">Precambrian </field>
+  <field name="Eon">Hadean</field>
+  <field name="Era">nan</field>
+  <field name="Period">nan</field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
   <field name="age (Ma) ">4600.0</field>
   <field name="Approx">nan</field>
