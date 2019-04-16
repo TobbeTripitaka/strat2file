@@ -13,29 +13,8 @@
 import numpy as np
 import pandas as pd
 
-
-def to_xml(df, filename=None, mode='w'):
-    def row_to_xml(row):
-        '''Shape Pandas dataframe to xml format. 
-        Thanks Andy Hayden: https://stackoverflow.com/a/18579083/4535020
-        '''
-        xml = ['<item>']
-        for i, col_name in enumerate(row.index):
-            xml.append('  <field name="{0}">{1}</field>'.format(col_name, row.iloc[i]))
-        xml.append('</item>')
-        return '\n'.join(xml)
-    res = '\n'.join(df.apply(row_to_xml, axis=1))
-
-    if filename is None:
-        return res
-    with open(filename, mode) as f:
-        f.write(res)
-
-pd.DataFrame.to_xml = to_xml #Make object
-
-
 def geo_to_year(age, 
-        chart=chart, 
+        chart, 
         gauge = 0.5,
         early=0.75, 
         mid=0.5, 
@@ -49,7 +28,8 @@ def geo_to_year(age,
         m = True, 
         age_col = 7, 
         uncertainty = False, 
-        uncertainty_col = 9):
+        uncertainty_col = 9, 
+        format_chart = False):
     '''Function to convert name of startigraphic age to years in million years
     age -- string with geological age
     chart -- The International Chronostratigraphic Chart as pandas data array
@@ -66,6 +46,9 @@ def geo_to_year(age,
     chart = np.array(chart)
     find = np.zeros((chart.shape[0], len(in_phrase))).astype('bool')
     
+    if format_chart: 
+    	chart = chart.applymap(lambda s:s.strip().lower() if type(s) == str else s)
+
     if late_labels==None:
         late_labels = ['upper', 'later', 'late']
     
@@ -119,7 +102,21 @@ def geo_to_year(age,
     return min_my, max_my
 
 
-def year_to_geo(strat, chart):
+def year_to_geo(
+	years, 
+	chart, 
+	m=False):
+	'''
+	Convert year to stratigraphic age. 
+	'''
+	if m:
+		years /= 1e6
+
+	A = chart.ix[(chart['Ma']-years).abs().argsort()[:2]]
+
+	print(A)
+
+
 
 
 

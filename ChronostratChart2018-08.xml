@@ -1,5 +1,17 @@
 <item>
   <field name="Supereon">nan</field>
+  <field name="Eon">nan</field>
+  <field name="Era">nan</field>
+  <field name="Period">nan</field>
+  <field name="Epoch">nan</field>
+  <field name="Age">nan</field>
+  <field name="GSSP ">nan</field>
+  <field name="Ma">0.0</field>
+  <field name="Approx">nan</field>
+  <field name="Uncertainty">nan</field>
+</item>
+<item>
+  <field name="Supereon">nan</field>
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Quaternary </field>
