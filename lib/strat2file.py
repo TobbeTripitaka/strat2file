@@ -21,14 +21,15 @@ def geo_to_year(age,
         late=0.25, 
         latest = 0, 
         earliest = 1,
+        period = True,
         late_labels = None,
         early_labels = None,
         mid_labels = None, 
         use_descriptive = True,
         m = True, 
-        age_col = 7, 
+        age_col = 8, 
         uncertainty = False, 
-        uncertainty_col = 9, 
+        uncertainty_col = 10, 
         format_chart = False):
     '''Function to convert name of startigraphic age to years in million years
     age -- string with geological age
@@ -94,12 +95,18 @@ def geo_to_year(age,
     max_my = chart[ii, age_col][-1]+e_bottom
     my = min_my + gauge*(max_my-min_my)
     
-    # Option to return years instead of Ma
-    if not m:
-        min_my *= 1e6
-        max_my *= 1e6
+ 
+    if period:
+    	# Option to return years instead of Ma
+    	if not m:
+        	min_my *= 1e6
+        	max_my *= 1e6
         
-    return min_my, max_my
+    	return min_my, max_my
+    else:
+    	if not m:
+    		m *=1e6
+    	return my
 
 
 def year_to_geo(
@@ -113,13 +120,35 @@ def year_to_geo(
 		years /= 1e6
 
 	A = chart.ix[(chart['Ma']-years).abs().argsort()[:2]]
-
-	print(A)
-
+	return A
 
 
+def age_to_color(data, rgb=True):
+	'''Returns array or single tuple with colors representing ages. 
+	If data is numbers, it is assumed to be in Ma
+	If data are strings, attempts to match with names
+	if rgb is false, CMYK i sreturned
+
+	'''
+	#my_list = my_string.split("/")
+	#Series.str.split(pat=None, n=-1, expand=False)
+
+def make_tuple(s, sep='/'):
+    if isinstance(s, str):
+        x = tuple(re.findall(r'\d+', s))
+        if len(x)==0:
+            x = s
+    else:
+        x = np.nan
+    return x
+
+#df.applymap(make_tuple)
 
 
-	return 
+
+
+
+
+
 
 

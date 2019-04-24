@@ -3,6 +3,7 @@
   <field name="Eon">nan</field>
   <field name="Era">nan</field>
   <field name="Period">nan</field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -15,6 +16,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Quaternary </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Holocene </field>
   <field name="Age">Meghalayan </field>
   <field name="GSSP ">T</field>
@@ -27,6 +29,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Quaternary </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Holocene </field>
   <field name="Age">Northgrippian </field>
   <field name="GSSP ">T</field>
@@ -39,6 +42,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Quaternary </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Holocene </field>
   <field name="Age">Greenlandian </field>
   <field name="GSSP ">T</field>
@@ -51,6 +55,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Quaternary </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Pleistocene </field>
   <field name="Age">Upper </field>
   <field name="GSSP ">nan</field>
@@ -63,6 +68,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Quaternary </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Pleistocene </field>
   <field name="Age">Middle </field>
   <field name="GSSP ">nan</field>
@@ -75,6 +81,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Quaternary </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Pleistocene </field>
   <field name="Age">Calabrian </field>
   <field name="GSSP ">T</field>
@@ -87,6 +94,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Quaternary </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Pleistocene </field>
   <field name="Age">Gelasian </field>
   <field name="GSSP ">T</field>
@@ -99,6 +107,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Neogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Pliocene </field>
   <field name="Age">Piacenzian </field>
   <field name="GSSP ">T</field>
@@ -111,6 +120,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Neogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Pliocene </field>
   <field name="Age">Zanclean </field>
   <field name="GSSP ">T</field>
@@ -123,6 +133,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Neogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Miocene </field>
   <field name="Age">Messinian </field>
   <field name="GSSP ">T</field>
@@ -135,6 +146,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Neogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Miocene </field>
   <field name="Age">Tortonian </field>
   <field name="GSSP ">T</field>
@@ -147,6 +159,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Neogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Miocene </field>
   <field name="Age">Serravallian </field>
   <field name="GSSP ">T</field>
@@ -159,6 +172,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Neogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Miocene </field>
   <field name="Age">Langhian </field>
   <field name="GSSP ">nan</field>
@@ -171,6 +185,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Neogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Miocene </field>
   <field name="Age">Burdigalian </field>
   <field name="GSSP ">nan</field>
@@ -183,6 +198,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Neogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Miocene </field>
   <field name="Age">Aquitanian </field>
   <field name="GSSP ">T</field>
@@ -195,6 +211,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Paleogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Oligocene </field>
   <field name="Age">Chattian </field>
   <field name="GSSP ">T</field>
@@ -207,6 +224,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Paleogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Oligocene </field>
   <field name="Age">Rupelian </field>
   <field name="GSSP ">T</field>
@@ -219,6 +237,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Paleogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Eocene </field>
   <field name="Age">Priabonian </field>
   <field name="GSSP ">nan</field>
@@ -231,6 +250,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Paleogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Eocene </field>
   <field name="Age">Bartonian </field>
   <field name="GSSP ">nan</field>
@@ -243,6 +263,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Paleogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Eocene </field>
   <field name="Age">Lutetian </field>
   <field name="GSSP ">T</field>
@@ -255,6 +276,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Paleogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Eocene </field>
   <field name="Age">Ypresian </field>
   <field name="GSSP ">T</field>
@@ -267,6 +289,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Paleogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Paleocene </field>
   <field name="Age">Thanetian </field>
   <field name="GSSP ">T</field>
@@ -279,6 +302,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Paleogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Paleocene </field>
   <field name="Age">Selandian </field>
   <field name="GSSP ">T</field>
@@ -291,6 +315,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Cenozoic</field>
   <field name="Period">Paleogene </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Paleocene </field>
   <field name="Age">Danian </field>
   <field name="GSSP ">T</field>
@@ -303,8 +328,9 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Cretaceous </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper</field>
-  <field name="Age">Maastrichtia </field>
+  <field name="Age">Maastrichtian</field>
   <field name="GSSP ">T</field>
   <field name="Ma">72.1</field>
   <field name="Approx">nan</field>
@@ -315,6 +341,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Cretaceous </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper</field>
   <field name="Age">Campanian </field>
   <field name="GSSP ">nan</field>
@@ -327,6 +354,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Cretaceous </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper</field>
   <field name="Age">Santonian </field>
   <field name="GSSP ">T</field>
@@ -339,6 +367,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Cretaceous </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper</field>
   <field name="Age">Coniacian </field>
   <field name="GSSP ">nan</field>
@@ -351,6 +380,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Cretaceous </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper</field>
   <field name="Age">Turonian </field>
   <field name="GSSP ">T</field>
@@ -363,6 +393,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Cretaceous </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper</field>
   <field name="Age">Cenomanian </field>
   <field name="GSSP ">T</field>
@@ -375,6 +406,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Cretaceous </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower</field>
   <field name="Age">Albian </field>
   <field name="GSSP ">T</field>
@@ -387,6 +419,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Cretaceous </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower</field>
   <field name="Age">Aptian </field>
   <field name="GSSP ">nan</field>
@@ -399,6 +432,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Cretaceous </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower</field>
   <field name="Age">Barremian </field>
   <field name="GSSP ">nan</field>
@@ -411,6 +445,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Cretaceous </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower</field>
   <field name="Age">Hauterivian </field>
   <field name="GSSP ">nan</field>
@@ -423,6 +458,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Cretaceous </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower</field>
   <field name="Age">Valanginian </field>
   <field name="GSSP ">nan</field>
@@ -435,6 +471,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Cretaceous </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower</field>
   <field name="Age">Berriasian </field>
   <field name="GSSP ">nan</field>
@@ -447,6 +484,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Jurassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper </field>
   <field name="Age">Tithonian </field>
   <field name="GSSP ">nan</field>
@@ -459,6 +497,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Jurassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper </field>
   <field name="Age">Kimmeridgian </field>
   <field name="GSSP ">nan</field>
@@ -471,6 +510,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Jurassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper </field>
   <field name="Age">Oxfordian </field>
   <field name="GSSP ">nan</field>
@@ -483,6 +523,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Jurassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Middle </field>
   <field name="Age">Callovian </field>
   <field name="GSSP ">nan</field>
@@ -495,6 +536,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Jurassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Middle </field>
   <field name="Age">Bathonian </field>
   <field name="GSSP ">T</field>
@@ -507,6 +549,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Jurassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Middle </field>
   <field name="Age">Bajocian </field>
   <field name="GSSP ">T</field>
@@ -519,6 +562,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Jurassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Middle </field>
   <field name="Age">Aalenian </field>
   <field name="GSSP ">T</field>
@@ -531,6 +575,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Jurassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower</field>
   <field name="Age">Toarcian </field>
   <field name="GSSP ">T</field>
@@ -543,6 +588,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Jurassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower</field>
   <field name="Age">Pliensbachian </field>
   <field name="GSSP ">T</field>
@@ -555,6 +601,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Jurassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower</field>
   <field name="Age">Sinemurian </field>
   <field name="GSSP ">T</field>
@@ -567,6 +614,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Jurassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower</field>
   <field name="Age">Hettangian </field>
   <field name="GSSP ">T</field>
@@ -579,6 +627,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Triassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper </field>
   <field name="Age">Rhaetian </field>
   <field name="GSSP ">nan</field>
@@ -591,6 +640,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Triassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper </field>
   <field name="Age">Norian </field>
   <field name="GSSP ">nan</field>
@@ -603,6 +653,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Triassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper </field>
   <field name="Age">Carnian </field>
   <field name="GSSP ">T</field>
@@ -615,6 +666,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Triassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Middle </field>
   <field name="Age">Ladinian </field>
   <field name="GSSP ">T</field>
@@ -627,6 +679,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Triassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Middle </field>
   <field name="Age">Anisian </field>
   <field name="GSSP ">nan</field>
@@ -639,6 +692,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Triassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower </field>
   <field name="Age">Olenekian </field>
   <field name="GSSP ">nan</field>
@@ -651,6 +705,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Mesozoic </field>
   <field name="Period">Triassic </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower </field>
   <field name="Age">Induan </field>
   <field name="GSSP ">T</field>
@@ -663,6 +718,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Permian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lopingian </field>
   <field name="Age">Changhsingian </field>
   <field name="GSSP ">T</field>
@@ -675,6 +731,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Permian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lopingian </field>
   <field name="Age">Wuchiapingian </field>
   <field name="GSSP ">T</field>
@@ -687,6 +744,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Permian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Guadalupian </field>
   <field name="Age">Capitanian </field>
   <field name="GSSP ">T</field>
@@ -699,6 +757,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Permian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Guadalupian </field>
   <field name="Age">Wordian </field>
   <field name="GSSP ">T</field>
@@ -711,6 +770,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Permian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Guadalupian </field>
   <field name="Age">Roadian </field>
   <field name="GSSP ">T</field>
@@ -723,6 +783,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Permian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Cisuralian </field>
   <field name="Age">Kungurian </field>
   <field name="GSSP ">nan</field>
@@ -735,6 +796,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Permian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Cisuralian </field>
   <field name="Age">Artinskian </field>
   <field name="GSSP ">nan</field>
@@ -747,6 +809,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Permian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Cisuralian </field>
   <field name="Age">Sakmarian </field>
   <field name="GSSP ">T</field>
@@ -759,6 +822,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Permian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Cisuralian </field>
   <field name="Age">Asselian </field>
   <field name="GSSP ">T</field>
@@ -771,7 +835,8 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Carboniferous </field>
-  <field name="Epoch">Pennsylvanian  Upper</field>
+  <field name="Am Period">Pennsylvanian</field>
+  <field name="Epoch">Upper</field>
   <field name="Age">Gzhelian </field>
   <field name="GSSP ">nan</field>
   <field name="Ma">303.7</field>
@@ -783,7 +848,8 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Carboniferous </field>
-  <field name="Epoch">Pennsylvanian  Upper</field>
+  <field name="Am Period">Pennsylvanian</field>
+  <field name="Epoch">Upper</field>
   <field name="Age">Kasimovian </field>
   <field name="GSSP ">nan</field>
   <field name="Ma">307.0</field>
@@ -795,7 +861,8 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Carboniferous </field>
-  <field name="Epoch">Pennsylvanian  Middle</field>
+  <field name="Am Period">Pennsylvanian</field>
+  <field name="Epoch">Middle </field>
   <field name="Age">Moscovian </field>
   <field name="GSSP ">nan</field>
   <field name="Ma">315.2</field>
@@ -807,7 +874,8 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Carboniferous </field>
-  <field name="Epoch">Pennsylvanian  Lower</field>
+  <field name="Am Period">Pennsylvanian</field>
+  <field name="Epoch">Lower</field>
   <field name="Age">Bashkirian </field>
   <field name="GSSP ">T</field>
   <field name="Ma">323.2</field>
@@ -819,7 +887,8 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Carboniferous </field>
-  <field name="Epoch">Mississippian Upper</field>
+  <field name="Am Period">Mississippian</field>
+  <field name="Epoch">Upper</field>
   <field name="Age">Serpukhovian </field>
   <field name="GSSP ">nan</field>
   <field name="Ma">330.9</field>
@@ -831,7 +900,8 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Carboniferous </field>
-  <field name="Epoch">Mississippian Middle</field>
+  <field name="Am Period">Mississippian</field>
+  <field name="Epoch">Middle </field>
   <field name="Age">Visean </field>
   <field name="GSSP ">T</field>
   <field name="Ma">346.7</field>
@@ -843,7 +913,8 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Carboniferous </field>
-  <field name="Epoch">Mississippian Lower</field>
+  <field name="Am Period">Mississippian</field>
+  <field name="Epoch">Lower</field>
   <field name="Age">Tournaisian</field>
   <field name="GSSP ">T</field>
   <field name="Ma">358.9</field>
@@ -855,6 +926,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Devonian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper</field>
   <field name="Age">Famennian </field>
   <field name="GSSP ">T</field>
@@ -867,6 +939,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Devonian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper</field>
   <field name="Age">Frasnian </field>
   <field name="GSSP ">T</field>
@@ -879,6 +952,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Devonian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Middle </field>
   <field name="Age">Givetian </field>
   <field name="GSSP ">T</field>
@@ -891,6 +965,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Devonian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Middle </field>
   <field name="Age">Eifelian </field>
   <field name="GSSP ">T</field>
@@ -903,8 +978,9 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Devonian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower </field>
-  <field name="Age">Eifelian </field>
+  <field name="Age">Emsian</field>
   <field name="GSSP ">T</field>
   <field name="Ma">407.6</field>
   <field name="Approx">nan</field>
@@ -915,6 +991,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Devonian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower </field>
   <field name="Age">Pragian </field>
   <field name="GSSP ">T</field>
@@ -927,6 +1004,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Devonian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower </field>
   <field name="Age">Lochkovian </field>
   <field name="GSSP ">T</field>
@@ -939,7 +1017,8 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Silurian </field>
-  <field name="Epoch">Pridol </field>
+  <field name="Am Period">nan</field>
+  <field name="Epoch">Pridoli</field>
   <field name="Age">nan</field>
   <field name="GSSP ">T</field>
   <field name="Ma">423.0</field>
@@ -951,6 +1030,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Silurian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Ludlow </field>
   <field name="Age">Ludfordian </field>
   <field name="GSSP ">T</field>
@@ -963,6 +1043,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Silurian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Ludlow </field>
   <field name="Age">Gorstian </field>
   <field name="GSSP ">T</field>
@@ -975,6 +1056,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Silurian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Wenlock </field>
   <field name="Age">Homerian </field>
   <field name="GSSP ">T</field>
@@ -987,6 +1069,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Silurian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Wenlock </field>
   <field name="Age">Sheinwoodian </field>
   <field name="GSSP ">T</field>
@@ -999,6 +1082,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Silurian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Llandovery </field>
   <field name="Age">Telychian </field>
   <field name="GSSP ">T</field>
@@ -1011,6 +1095,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Silurian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Llandovery </field>
   <field name="Age">Aeronian </field>
   <field name="GSSP ">T</field>
@@ -1023,6 +1108,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Silurian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Llandovery </field>
   <field name="Age">Rhuddanian </field>
   <field name="GSSP ">T</field>
@@ -1035,6 +1121,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Ordovician </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper</field>
   <field name="Age">Hirnantian </field>
   <field name="GSSP ">T</field>
@@ -1047,6 +1134,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Ordovician </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper</field>
   <field name="Age">Katian </field>
   <field name="GSSP ">T</field>
@@ -1059,6 +1147,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Ordovician </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Upper</field>
   <field name="Age">Sandbian </field>
   <field name="GSSP ">T</field>
@@ -1071,6 +1160,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Ordovician </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Middle </field>
   <field name="Age">Darriwilian </field>
   <field name="GSSP ">T</field>
@@ -1083,6 +1173,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Ordovician </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Middle </field>
   <field name="Age">Dapingian </field>
   <field name="GSSP ">T</field>
@@ -1095,6 +1186,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Ordovician </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower </field>
   <field name="Age">Floian </field>
   <field name="GSSP ">T</field>
@@ -1107,6 +1199,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Ordovician </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Lower </field>
   <field name="Age">Tremadocian </field>
   <field name="GSSP ">T</field>
@@ -1119,6 +1212,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Cambrian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Furongian </field>
   <field name="Age">Stage 10 </field>
   <field name="GSSP ">nan</field>
@@ -1131,6 +1225,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Cambrian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Furongian </field>
   <field name="Age">Jiangshanian </field>
   <field name="GSSP ">T</field>
@@ -1143,6 +1238,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Cambrian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Furongian </field>
   <field name="Age">Paibian </field>
   <field name="GSSP ">T</field>
@@ -1155,6 +1251,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Cambrian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Miaolingian </field>
   <field name="Age">Guzhangian </field>
   <field name="GSSP ">T</field>
@@ -1167,6 +1264,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Cambrian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Miaolingian </field>
   <field name="Age">Drumian </field>
   <field name="GSSP ">T</field>
@@ -1179,6 +1277,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Cambrian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Miaolingian </field>
   <field name="Age">Wuliuan </field>
   <field name="GSSP ">T</field>
@@ -1191,6 +1290,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Cambrian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Series 2 </field>
   <field name="Age">Stage 4 </field>
   <field name="GSSP ">nan</field>
@@ -1203,6 +1303,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Cambrian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Series 2 </field>
   <field name="Age">Stage 3 </field>
   <field name="GSSP ">nan</field>
@@ -1215,6 +1316,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Cambrian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Terreneuvian </field>
   <field name="Age">Stage 2 </field>
   <field name="GSSP ">nan</field>
@@ -1227,6 +1329,7 @@
   <field name="Eon">Phanerozoic </field>
   <field name="Era">Paleozoic </field>
   <field name="Period">Cambrian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">Terreneuvian </field>
   <field name="Age">Fortunian </field>
   <field name="GSSP ">T</field>
@@ -1239,6 +1342,7 @@
   <field name="Eon">Proterozoic </field>
   <field name="Era">Neoproterozoic </field>
   <field name="Period">Ediacaran </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">T</field>
@@ -1251,6 +1355,7 @@
   <field name="Eon">Proterozoic </field>
   <field name="Era">Neoproterozoic </field>
   <field name="Period">Cryogenian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -1263,6 +1368,7 @@
   <field name="Eon">Proterozoic </field>
   <field name="Era">Neoproterozoic </field>
   <field name="Period">Tonian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -1275,6 +1381,7 @@
   <field name="Eon">Proterozoic </field>
   <field name="Era">Mesoproterozoic</field>
   <field name="Period">Stenian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -1287,6 +1394,7 @@
   <field name="Eon">Proterozoic </field>
   <field name="Era">Mesoproterozoic</field>
   <field name="Period">Ectasian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -1299,6 +1407,7 @@
   <field name="Eon">Proterozoic </field>
   <field name="Era">Mesoproterozoic</field>
   <field name="Period">Calymmian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -1311,6 +1420,7 @@
   <field name="Eon">Proterozoic </field>
   <field name="Era">Paleoproterozoic</field>
   <field name="Period">Statherian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -1323,6 +1433,7 @@
   <field name="Eon">Proterozoic </field>
   <field name="Era">Paleoproterozoic</field>
   <field name="Period">Orosirian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -1335,6 +1446,7 @@
   <field name="Eon">Proterozoic </field>
   <field name="Era">Paleoproterozoic</field>
   <field name="Period">Rhyacian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -1347,6 +1459,7 @@
   <field name="Eon">Proterozoic </field>
   <field name="Era">Paleoproterozoic</field>
   <field name="Period">Siderian </field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -1359,6 +1472,7 @@
   <field name="Eon">Archean </field>
   <field name="Era">Neoarchean </field>
   <field name="Period">nan</field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -1371,6 +1485,7 @@
   <field name="Eon">Archean </field>
   <field name="Era">Mesoarchean</field>
   <field name="Period">nan</field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -1383,6 +1498,7 @@
   <field name="Eon">Archean </field>
   <field name="Era">Paleoarchean </field>
   <field name="Period">nan</field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -1395,6 +1511,7 @@
   <field name="Eon">Archean </field>
   <field name="Era">Eoarchean</field>
   <field name="Period">nan</field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
@@ -1407,6 +1524,7 @@
   <field name="Eon">Hadean</field>
   <field name="Era">nan</field>
   <field name="Period">nan</field>
+  <field name="Am Period">nan</field>
   <field name="Epoch">nan</field>
   <field name="Age">nan</field>
   <field name="GSSP ">nan</field>
