@@ -5,9 +5,84 @@
 \usepackage{amssymb}
 \usepackage{graphicx}
 \author{Tobias Stål}
-\title{Geologic time scale extractor}
+\title{An approach of converting geological time by stacking string content }
 \begin{document}
 	\maketitle
 	
+\section*{Abstract}
+Some geological databases list geochronological age in the units of geological time. This makes comparison and automated sorting challenging. This code converts geological time to age in years. The output can be a number, a range, a minimum or maximum age, given uncertainties in dating method and definitions of geological periods. The package is written in Python and also contains methods for generating geological time from age in years and producing various computer readable formats of the International Chronostratigraphic Chart. Methods also returns defined colours that might be used to e.g. improve ternary plots.
+
+
+\section{Introduction}
+Converting age a geological time to age in million years proved to be difficult. Existing projects, as 
+
+%The conventional geologic time scale is a reference system defined by a contiguous se- quence of time intervals, each identified with a name. These are recursively subdivided, re- sulting in a hierarchy composed of intervals of various ranks. The units in the scale are ordered, so the relative temporal positions of geologic objects and events may be recorded or asserted, denoted by the names of units from the scale.
+\cite{remane1996revised}
+
+
+%The basis for the matching, or correlation, may be lith- ologic, paleontologic, or geochronologic, de- fining lithostratigraphic, biostratigraphic, and chronostratigraphic units.
+
+
+%/Web Ontology Language representation of the timescale is available through the Commission for the Management and Application of Geoscience Information GeoSciML project as a service
+
+%logical consistency of the model to be evaluated. This is important, since al- though stratigraphic methodology is one of the most rigorously studied aspects of geo- logical practice, it has evolved throughout the era of historical geology There have been significant changes in best practice, in partic- ular in the shift from characterizing units to defining the boundaries between them. 
+
+
+
+\cite{Cox2014}
+
+\cite{Ma2017}
+
+\section{Discussion and considerations}
+Geological time is more than just a definition of age. 
+
+
+
+\section{Methods}
+The International Chronostratigraphic Chart is converted to computer readable formats as JSON, XML and csv. The concept here, is not to repeat the detailed and informative structure of \cite{Cox2005}, but only to provide the computer with a list of chronostratigraphic units. The units form an array, with time as rows and finer subdivisions as columns. This is in perfect analogy with the International Chronostratigraphic Chart, and is easily readable be humans as well. Colour codes are stored in an additional dimension. 
+\subsection{chronostratigraphic description to age}
+
+Text defining geological age is read to a string that is split into words. The code generates an array containing logical comparisons for each word in the input string. Each comparison happens only once, and starts from larger subdivisions and moves to finer. 
+
+Upper Jurassic
+Adds all fields 'upper' with all field in Jurassic. As all words are used, the algorithm stops. and returns the highest stacked value: 
+
+if a word is left, eg:
+
+upper upper Jurassic, the remains are compared with lists and further refines the age. 
+
+The dictionary contains a number of values e.g: 
+
+upper = 0.75
+uppermost = 0.99
+early = 0.25
+earliest = 0.01
+mid = 0.5
+
+
+
+The user gets three options: 
+	Return a range as a tuple
+	Return a normalized value, the center of the range
+	Return a normalised value and a +/- value
+	Return a stretched normalised value +/-, this includes uncertainties in defination of geological period as well as uncertainties in data, given as a scalar. 
 	
+	
+	
+\subsection{Age to chronostratigraphic unit}
+
+Returns a dictionary with eon  period: etc  if return string is True, the dict is expressed as a string. 
+
+\subsection{Age to colour}
+Input is a number or geological string. If the later, the method straot to age is used to convert it. The age is read from table. 
+
+If subdiv is defined, returns only one color for e.g. period or stage. If not, A dict is returned with eaon. Color, period color etc. 
+
+
+
+
+
+
+
+
 \end{document}

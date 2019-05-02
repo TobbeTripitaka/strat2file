@@ -3,3 +3,4 @@
 __version__ = '0.0.1'
 
 #Import chart
+from pygeotime.pygeotime import *
