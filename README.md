@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/180923313.svg)](https://zenodo.org/badge/latestdoi/180923313)
+
 # strat2file
 
 _The International Chronostratigraphic Chart from International Commission on Stratigraphy, in computer readable formats._
